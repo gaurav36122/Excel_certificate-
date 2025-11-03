@@ -1,7 +1,7 @@
 # Excel_certificate-
 # 🎓 Introduction to MS Excel
 
-![Certificate] (https://github.com/gaurav36122/Excel_certificate-/blob/main/Excel_Certificate.png?raw=true)
+![Certificate](https://github.com/gaurav36122/Excel_certificate-/blob/main/Excel_Certificate.png?raw=true)
 
 ## 📘 About the Course
 This repository showcases my completion of the **"Introduction to MS Excel"** course offered by **Simplilearn (Powered by Microsoft)**.  
